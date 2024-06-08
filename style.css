@@ -1,6 +1,29 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
-    color: white;
-    padding: 128px 16px;
+    text-align: center;
+    background-color: rgb(69, 125, 229);
+    
+    color: rgb(64, 55, 162);
+    padding: 100px 16px;
+    background-image:url("https://www.nrdc.org/sites/default/files/styles/social_sharing_1200x630/public/media-uploads/health4_26_airpollguide_istock_2796602_2400.jpg?h=c3635fa2&itok=HMTXSAJe");
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+section {
+    text-align:center;
+    color:rgb(64, 55, 162);
+    border: 5px solid white;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li {
+    text-align:center;
+    font-family: monospace;
 }
