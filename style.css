@@ -14,7 +14,9 @@ section {
     border: 5px solid white;
 
 }
-
+ul { 
+    color: antiquewhite;
+}
 h1 {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
